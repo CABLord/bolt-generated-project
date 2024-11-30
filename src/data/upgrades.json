@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Quantum Decryption Module",
+    "description": "Enhances decryption speed",
+    "cost": 500
+  },
+  {
+    "id": 2,
+    "name": "Faster Processor",
+    "description": "Improves overall performance",
+    "cost": 300
+  }
+]

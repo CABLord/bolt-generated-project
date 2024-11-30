@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Corporate Espionage",
+    "description": "Steal sensitive data from MegaCorp",
+    "reward": 1000,
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "name": "Data Theft",
+    "description": "Breach the government database",
+    "reward": 1500,
+    "difficulty": "hard"
+  }
+]

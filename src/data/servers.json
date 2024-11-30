@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "MegaCorp Server",
+    "ip": "192.168.1.1",
+    "securityLevel": 5
+  },
+  {
+    "id": 2,
+    "name": "Government Database",
+    "ip": "192.168.1.2",
+    "securityLevel": 7
+  }
+]
